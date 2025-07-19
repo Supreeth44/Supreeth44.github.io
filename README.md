@@ -116,7 +116,7 @@
                 </div>
                 <div class="md:col-span-2 flex justify-center items-center">
                      <div class="w-64 h-64 rounded-lg bg-gray-800 relative overflow-hidden group">
-                        <img src="http://googleusercontent.com/file_content/1" alt="Supreeth Rumalad" class="w-full h-full object-cover rounded-lg transition-transform duration-500 group-hover:scale-110">
+                        <img src="https://raw.githubusercontent.com/Supreeth44/Supreeth44.github.io/main/WhatsApp%20Image%202025-07-19%20at%2011.46.34%20PM.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/300x300/1f2937/e5e7eb?text=Image+Not+Found';" alt="Supreeth Rumalad" class="w-full h-full object-cover rounded-lg transition-transform duration-500 group-hover:scale-110">
                         <div class="absolute inset-0 bg-blue-600/20"></div>
                      </div>
                 </div>
