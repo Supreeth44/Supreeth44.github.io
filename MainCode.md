@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -130,6 +129,7 @@
     <div id="root"></div>
     <div id="toast-container" class="fixed bottom-5 right-5 z-[100]"></div>
 
+    {% raw %}
     <script type="text/babel">
         // Helper to get HSL colors for Tailwind
         const withOpacity = (variableName) => ({ opacityValue }) => {
@@ -834,5 +834,6 @@
         const root = ReactDOM.createRoot(container);
         root.render(<App />);
     </script>
+    {% endraw %}
 </body>
 </html>
